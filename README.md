@@ -1,4 +1,4 @@
-- 👋 Hi, I’m S.ABINESH
+- 👋 Hi, I’m ABINESH S
 - 🌱 I’m currently learning BE CSE
 - 📫 How to reach me abiselva254@gmail.com
 
